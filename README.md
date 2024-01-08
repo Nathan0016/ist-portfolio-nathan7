@@ -10,5 +10,8 @@ git add .
 git commit -m "commit message"
 git push
 ```
+![Tux](Read-only-Linux.jpg)
+- Ctrl+x ctrl+f
+- Ctrl+n to cycle through options
 
 
